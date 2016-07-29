@@ -29,11 +29,16 @@
 
 #menu-name{
     font-weight:bold;
-    color: aliceblue;
+    color: azure;
     font-size: 16px;
 }
 .titulos{
      font-weight:bold;
     font-size:30px;
     }
-
+.conten-img{
+    border-color:cornflowerblue;}
+#vio{
+    color: black;
+    
+}
